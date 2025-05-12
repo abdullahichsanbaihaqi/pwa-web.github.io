@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.abdullahichsanbaihaqi.pwa",
+    "package_name": "com.ican.twaapplication",
     "sha256_cert_fingerprints": ["54:08:B5:C3:DB:7C:43:E0:75:FD:A3:23:D8:E2:C8:C2:1C:1E:29:D6:C8:42:E6:BF:EB:81:74:D4:4B:D0:E9:C7"]
   }
 }]
